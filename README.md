@@ -1,0 +1,2 @@
+# netblaze
+automate the website 
